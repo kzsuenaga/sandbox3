@@ -3,4 +3,4 @@ sandboxです。
 sandboxです。
 sandboxです。
 sandboxです。
-いいえ、ここはsandbox3っぽいです。
+SANXBOXです。いいえ、ここはsandbox3っぽいです。
