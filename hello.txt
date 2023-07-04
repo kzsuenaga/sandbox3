@@ -1,4 +1,4 @@
-hello world
+hellohello world
 hello world
 hello world
 hello world
@@ -14,3 +14,4 @@ branchitoで書き込みました
 これはmasahiko.maedaが書込みました。
 this branch which is edited by otani
 これはbranchmk2で書き込みました
+これはakaneが書き込みました
