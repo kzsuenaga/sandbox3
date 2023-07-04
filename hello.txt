@@ -7,3 +7,5 @@ hello world
 mainブランチで書き込みました
 これはbranch3で書き込みました
 これはbranch5で書き込みました
+
+branchitoで書き込みました
