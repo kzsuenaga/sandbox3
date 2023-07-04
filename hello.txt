@@ -11,3 +11,5 @@ mainブランチで書き込みました
 これはbranchmkで書き込みました
 これはbranchmkで書き込みました
 this branch which is edited by otani
+
+これはbranch9で書き込みました
