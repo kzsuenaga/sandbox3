@@ -11,3 +11,4 @@ mainブランチで書き込みました
 これはmasahiko.maedaが書込みました。
 this branch which is edited by otani
 これはbranchmk2で書き込みました
+これはbranch7で書き込みました
